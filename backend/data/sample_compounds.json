@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ethanol",
+    "smiles": "CCO",
+    "use": "alcohol example"
+  },
+  {
+    "name": "ethyl acetate",
+    "smiles": "CC(=O)OCC",
+    "use": "ester example"
+  },
+  {
+    "name": "acetone",
+    "smiles": "CC(=O)C",
+    "use": "ketone example"
+  },
+  {
+    "name": "acetic acid",
+    "smiles": "CC(=O)O",
+    "use": "carboxylic acid example"
+  },
+  {
+    "name": "ethene",
+    "smiles": "C=C",
+    "use": "alkene example"
+  },
+  {
+    "name": "benzonitrile",
+    "smiles": "N#Cc1ccccc1",
+    "use": "nitrile and aromatic example"
+  }
+]
